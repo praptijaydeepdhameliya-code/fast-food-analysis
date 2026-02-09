@@ -1,3 +1,10 @@
+## Dashboard Preview
+![Dashboard](Screenshots/dashboard.png)
+
+## Note
+Power BI dashboard files (.pbix) cannot be previewed directly on GitHub.
+Please download the file from the Dashboard folder to view interactively
+
 📌 Project Description
 
 This project focuses on analyzing and comparing the nutritional values of popular fast-food restaurants using Power BI.

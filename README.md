@@ -1,5 +1,5 @@
 ## Dashboard Preview
-![Dashboard](dashboard/fast food dashboard.png)
+(Dashboard/fast food dashboard.png)
 
 ## Note
 Power BI dashboard files (.pbix) cannot be previewed directly on GitHub.
